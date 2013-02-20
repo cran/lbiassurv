@@ -1,0 +1,8 @@
+5f38073c5154afffc6c977d40234aecd *DESCRIPTION
+7c0c4afce83052cd10a5fe44ea986add *NAMESPACE
+6fc29c1b84a788530e6cd01cdb89be61 *R/lbiassurv.R
+27d82638a02c2ca344c391441b47de7d *R/zzz.R
+0415fb118012d32e757b4694e43c5e42 *man/lbfit.nonpar.Rd
+1dd505520ee63d5a1ac0f452e806ff20 *man/lbfit.par.Rd
+ba805494ec85c12fef1507950c3830d7 *man/lbsample.Rd
+b7bfae7187b46489541b4c084c5f0f31 *src/nonparfit.c
